@@ -1,0 +1,16 @@
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\bin\Debug\Dirty.exe.config
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\bin\Debug\Dirty.exe
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\bin\Debug\Dirty.pdb
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty.csprojResolveAssemblyReference.cache
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Display.g.cs
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\MainWindow.g.cs
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\App.g.cs
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty_MarkupCompile.cache
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty_MarkupCompile.lref
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Display.baml
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\MainWindow.baml
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty.g.resources
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty.Properties.Resources.resources
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty.csproj.GenerateResource.Cache
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty.exe
+c:\users\jvk\documents\visual studio 2015\Projects\Dirty\Dirty\obj\Debug\Dirty.pdb
